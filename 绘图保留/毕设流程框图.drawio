@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+  <diagram name="第 1 页" id="_btHWEzIWjIOSCdJM7QY">
+    <mxGraphModel dx="983" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3" value="提升无人机在复杂环境中的自主导航与决策能力" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="70" y="198.5" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kzUl02TNjQ-jc1x4WPDn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;strokeWidth=1;shape=flexArrow;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="kzUl02TNjQ-jc1x4WPDn-16" target="kzUl02TNjQ-jc1x4WPDn-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kzUl02TNjQ-jc1x4WPDn-16" value="基于深度强化学习的无人机控制策略优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="272" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="kzUl02TNjQ-jc1x4WPDn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;strokeWidth=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="kzUl02TNjQ-jc1x4WPDn-17" target="kzUl02TNjQ-jc1x4WPDn-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kzUl02TNjQ-jc1x4WPDn-17" value="结合课程学习的无人机导航策略" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="180" y="280" width="272" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="kzUl02TNjQ-jc1x4WPDn-18" value="基于图神经网络的多智能体决策" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="180" y="380" width="272" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="bKDhdRuN--0EPjgh3U6w-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;shadow=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="150" y="210" width="20" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="EF_FT4UAc1FtxRZLWrao-6" value="深度神经网络（高级控制器）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="470" y="170.75" width="272" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EF_FT4UAc1FtxRZLWrao-8" value="PID控制器（低级控制器）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="470" y="199.25" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EF_FT4UAc1FtxRZLWrao-10" value="强化学习优化策略（PPO算法）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="470" y="229.25" width="272" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkX893RbkQObQKTdpyu-6" value="任务课程划分与奖励设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="470" y="283.5" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkX893RbkQObQKTdpyu-8" value="深度强化学习算法（PPO或DDPG）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="470" y="313.5" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O86Q9eFtCVGx5k1HFb2c-6" value="图神经网络信息建模" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="383.5" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O86Q9eFtCVGx5k1HFb2c-8" value="多智能体强化学习算法" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="413.5" width="272" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
