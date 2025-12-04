@@ -1,0 +1,31 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="bDiyORWfJL4cgmjLVKH6">
+    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="brEufvESUuX1g9emZ2Uc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;strokeWidth=1;shape=flexArrow;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="brEufvESUuX1g9emZ2Uc-5" target="brEufvESUuX1g9emZ2Uc-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brEufvESUuX1g9emZ2Uc-5" value="输入：任务阶段信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="90" width="272" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="brEufvESUuX1g9emZ2Uc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;strokeWidth=1;shape=flexArrow;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="brEufvESUuX1g9emZ2Uc-7" target="brEufvESUuX1g9emZ2Uc-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brEufvESUuX1g9emZ2Uc-7" value="任务课程划分与奖励设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="20" y="160" width="272" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brEufvESUuX1g9emZ2Uc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;strokeWidth=1;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="brEufvESUuX1g9emZ2Uc-9" target="brEufvESUuX1g9emZ2Uc-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brEufvESUuX1g9emZ2Uc-9" value="深度强化学习算法（PPO或DDPG）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="20" y="230" width="272" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brEufvESUuX1g9emZ2Uc-10" value="输出：导航策略" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="300" width="272" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
