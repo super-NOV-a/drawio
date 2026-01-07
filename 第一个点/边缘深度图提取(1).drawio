@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="EdgeDepthMapHorizontal" id="KzlxCQMw7kRkejJFd8Cy">
-    <mxGraphModel dx="-1314" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-1465" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,8 +418,8 @@
         <mxCell id="XdmWM_sdMhVL9J64jWej-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="$$D_\text{edge}$$" vertex="1">
           <mxGeometry height="30" width="60" x="3377.33" y="184.5" as="geometry" />
         </mxCell>
-        <mxCell id="XdmWM_sdMhVL9J64jWej-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="$$D_\text{edge\_initial}$$" vertex="1">
-          <mxGeometry height="30" width="60" x="3246" y="322" as="geometry" />
+        <mxCell id="XdmWM_sdMhVL9J64jWej-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="$$D_\text{edge\_init}$$" vertex="1">
+          <mxGeometry height="30" width="60" x="3244" y="322" as="geometry" />
         </mxCell>
         <mxCell id="okoJBS9SiJOvhFvvHFHw-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="填充深度图" vertex="1">
           <mxGeometry height="30" width="90" x="2501" y="156" as="geometry" />
